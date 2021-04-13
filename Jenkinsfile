@@ -40,6 +40,6 @@ pipeline {
                     archiveArtifacts 'dist/add2vals'
                 }
             }
-
+		}
     }
 }
